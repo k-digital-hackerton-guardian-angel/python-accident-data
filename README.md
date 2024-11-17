@@ -6,7 +6,7 @@
 
 
 
-i.py
+# i.py
 초기 데이터
 위도 경도 값 조정하기 위한 파일
 ```
@@ -18,7 +18,7 @@ i.py
 ```
 
 
-accident-list.py
+# accident-list.py
 사고 데이터 추출 프로그램
 - dongjak.json 파일 생성 (위도 경도 변경 전 데이터)
 - dongjack.json 에서 사고 id 추출해서, 상세정보 불러오기
